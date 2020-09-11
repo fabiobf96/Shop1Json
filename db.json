@@ -1,0 +1,115 @@
+{
+    "shops": [
+        {
+            "categoryId": 11,
+            "shopName": "Nuova Edilizia Pavone srls",
+            "shopDescription": "Ferramente, edilizia, Termoidraulia, materiali elettrico, vernici con tintometro e spettrofotometro in sede, climatizzazione, pavimenti e rivestimenti, arredo bagno",
+            "shopWebsite": "https://www.facebook.com/ediliziapavone/",
+            "shopNumber1": "tel:+390671353059",
+            "shopPosition": "https://www.google.it/maps/place/NUOVA+EDILIZIA+PAVONE+SRLS/@41.7841982,12.5231136,18z/data=!4m12!1m6!3m5!1s0x13258c00d9b2859d:0x1c2f07f3576b1933!2sNUOVA+EDILIZIA+PAVONE+SRLS!8m2!3d41.784256!4d12.5239098!3m4!1s0x13258c00d9b2859d:0x1c2f07f3576b1933!8m2!3d41.784256!4d12.5239098?hl=it",
+            "shopLogo": "https://static.wixstatic.com/media/f19321_7e3b8939ae4e466eb7b8b17b7aea0eb9~mv2.jpg/v1/fill/w_188,h_184,al_c,q_80,usm_0.66_1.00_0.01/logo-pavone-2019.webp",
+            "discount1": "Sconto 10%",
+            "condition1": "spesa minima 50€"
+        },
+        {
+            "categoryId": 18,
+            "shopName": "Vivaio Dettagli Italiani",
+            "shopDescription": "Vivaio, consegna a domicilio",
+            "shopWebsite": "https://www.facebook.com/vivaiodettaglitaliani/",
+            "shopNumber1": "tel:+393209187770",
+            "shopPosition": "https://www.google.it/maps/place/Dettagli+Italiani/@41.7895452,12.5123049,17z/data=!4m12!1m6!3m5!1s0x13258bf65e4ed53b:0x581728900e48360f!2sDettagli+Italiani!8m2!3d41.7895452!4d12.5144936!3m4!1s0x13258bf65e4ed53b:0x581728900e48360f!8m2!3d41.7895452!4d12.5144936?hl=it",
+            "shopLogo": "https://static.wixstatic.com/media/f19321_df8426e2d2094767bc7273917e9d9640~mv2.jpeg/v1/fill/w_162,h_160,al_c,q_80,usm_0.66_1.00_0.01/Vivaio%20Dettagli%20Italiani.webp"
+        },
+        {
+            "categoryId": 13,
+            "shopName": "MG GIOIELLI",
+            "shopDescription": "Gioielleria Orologeria Argenteria, laboratorio interno di orologeria e gioielleria",
+            "shopWebsite": "https://www.facebook.com/mggioiellisas/",
+            "shopNumber1": "tel:+390671355151",
+            "shopPosition": "https://www.google.it/maps/place/Mg+Gioielli/@41.7875213,12.5170892,17z/data=!4m8!1m2!2m1!1smg+gioielli!3m4!1s0x0:0xaaed29f0909e2f8d!8m2!3d41.78726!4d12.5188002?hl=it",
+            "shopLogo": "https://static.wixstatic.com/media/f19321_316952655198475daea0f293e8f3ed18~mv2.jpg/v1/fill/w_298,h_94,al_c,q_80,usm_0.66_1.00_0.01/Logo%20MG%20Gioielli.webp",
+            "discount1": "prezzo dell'oro bloccato a 40 €/gr",
+            "condition1": "",
+            "discount2": "Sconto 20% su acquisto nuovo orologio",
+            "condition2": "Rottamando un orologio vecchio"
+        },
+        {
+            "categoryId": 15,
+            "shopName": "Mash Pizzeria",
+            "shopDescription": "Pizzeria, tavola calda, pizza da asporto, paella su ordinazione",
+            "shopWebsite": "https://www.facebook.com/pizzeriamash/",
+            "shopNumber1": "tel:+390671355849",
+            "shopPosition": "https://www.google.it/maps/place/Mash/@41.7852334,12.5191534,17z/data=!4m12!1m6!3m5!1s0x13258c077382f36d:0x3090fd2cda1d77f6!2sMash!8m2!3d41.7852334!4d12.5213421!3m4!1s0x13258c077382f36d:0x3090fd2cda1d77f6!8m2!3d41.7852334!4d12.5213421?hl=it",
+            "shopLogo": "https://static.wixstatic.com/media/f19321_adc8e673a5a442178e8dbc2f7fee076a~mv2.jpeg/v1/fill/w_343,h_153,al_c,q_80,usm_0.66_1.00_0.01/WhatsApp%20Image%202020-03-25%20at%2023_00_55_jp.webp",
+            "discount1": "Sconto 10%",
+            "condition1": "Spesa minima 30€"
+        },
+        {
+            "categoryId": 15,
+            "shopName": "Pizzeria Le Sorelle",
+            "shopDescription": "Pizzeria a taglio e da asporto con impasto ad alta digeribilitá 72 h",
+            "shopWebsite": "https://www.facebook.com/pizzerialesorelle/",
+            "shopNumber1": "tel:+390671355798",
+            "shopPosition": "https://www.google.it/maps/place/Le+Sorelle/@41.7874031,12.5159178,17z/data=!3m1!4b1!4m5!3m4!1s0x13258bf7f7a4d5f9:0x56c9b024e7b4836!8m2!3d41.7874031!4d12.5181065?hl=ithttps://www.google.it/maps/place/Mash/@41.7852334,12.5191534,17z/data=!4m12!1m6!3m5!1s0x13258c077382f36d:0x3090fd2cda1d77f6!2sMash!8m2!3d41.7852334!4d12.5213421!3m4!1s0x13258c077382f36d:0x3090fd2cda1d77f6!8m2!3d41.7852334!4d12.5213421?hl=it",
+            "shopLogo": "https://scontent-fco1-1.xx.fbcdn.net/v/t31.0-8/s720x720/1933516_183482238360504_7237826_o.jpg?_nc_cat=102&_nc_sid=85a577&_nc_ohc=YhKRy3E_by4AX9BrkHp&_nc_ht=scontent-fco1-1.xx&tp=7&oh=360b25cf8a019b09ece54fa6f3c42e1f&oe=5F8193CD",
+            "discount1": "Una bevanda grande in omaggio",
+            "condition1": "Ogni 30€ di spesa"
+        },
+        {
+            "categoryId": 15,
+            "shopName": "Borgo del Merlo",
+            "shopDescription": "Osteria romana, Pizzeria",
+            "shopWebsite": "https://www.facebook.com/Barbara3476046980/",
+            "shopNumber1": "tel:+393476046980",
+            "shopNumber2": "tel:+390624403579",
+            "shopPosition": "https://www.google.it/maps/place/Borgo+del+Merlo/@41.7887753,12.5063206,15z/data=!3m1!4b1!4m5!3m4!1s0x13258bdc1ad748e3:0xad7e2f7faca4ba48!8m2!3d41.7887756!4d12.5150539?hl=it",
+            "shopLogo": "https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/96518064_461568024644442_3043122107471888384_n.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=Hzhi4WG6McEAX8JWPg5&_nc_ht=scontent-fco1-1.xx&oh=cfaff6c295e242ef39d986c3f088b17c&oe=5F81E1C9",
+            "discount1": "Sconto 10%"
+        },
+        {
+            "categoryId": 10,
+            "shopName": "Dentista",
+            "shopDescription": "Dentista, Odontoioatria",
+            "shopMail": "stefanotocci63@tiscali.it",
+            "shopWebsite": "https://www.facebook.com/StudioDentisticoTocci/",
+            "shopNumber1": "tel:+390671356088",
+            "shopPosition": "https://www.google.it/maps/place/Studio+Dentistico+Dott.+Stefano+Tocci+%7C+Dentista+a+Roma/@41.8316806,12.4803878,12z/data=!4m8!1m2!2m1!1sstudio+dentistico+tocci!3m4!1s0x13258da9319ddfa9:0x99b4ea3b7f0e7d78!8m2!3d41.7861172!4d12.5206249?hl=it",
+            "shopLogo": "https://static.wixstatic.com/media/f19321_f58be251341f4f9eaa580448085e0cf9~mv2.png/v1/fill/w_228,h_225,al_c,q_85,usm_0.66_1.00_0.01/Dottor%20Stefano%20Tocci.webp"
+        },
+        {
+            "categoryId": 12,
+            "shopName": "A.D.Fisio di Diletta Berrè e Antonella Materano",
+            "shopDescription": "Fisioterapia, Riabilitazione, Osteopatia",
+            "shopMail": "adfisio.riabilitazione@gmail.com",
+            "shopWebsite": "https://www.adfisioterapia.it/",
+            "shopNumber1": "tel:+390694358051",
+            "shopNumber2": "tel:+393343309243",
+            "shopPosition": "https://www.google.it/maps/place/A.D.+Fisio/@41.7878914,12.5164197,17z/data=!4m12!1m6!3m5!1s0x13258bf821e318c5:0x1b243b21bf76ce43!2sA.D.+Fisio!8m2!3d41.7878914!4d12.5186084!3m4!1s0x13258bf821e318c5:0x1b243b21bf76ce43!8m2!3d41.7878914!4d12.5186084?hl=it",
+            "shopLogo": "https://static.wixstatic.com/media/f19321_1bc8cc1159474ce5a539f49255661d2c~mv2.jpeg/v1/fill/w_329,h_118,al_c,q_80,usm_0.66_1.00_0.01/WhatsApp%20Image%202020-03-26%20at%2021_32_45_jp.webp",
+            "discount1": " un massaggio decontratturante in omaggio",
+            "condition1": "Per un ciclo di almeno 5 sedute"
+        },
+        {
+            "categoryId": 16,
+            "shopName": "ASD Tema Vallerano Futsal",
+            "shopDescription": "Scuola Calcio a 5",
+            "shopWebsite": "https://www.facebook.com/AsdValleranoCalcioA5/",
+            "shopNumber1": "tel:+393332956034",
+            "shopPosition": "https://www.google.com/maps/place/Via+di+Castel+di+Leva,+291,+00134+Roma+RM/@41.784256,12.5217211,17z/data=!3m1!4b1!4m5!3m4!1s0x13258c07328d31fb:0x7d911612eaa78588!8m2!3d41.784256!4d12.5239098",
+            "shopLogo": "https://static.wixstatic.com/media/f19321_136829d812764a2193188ed60407a127~mv2.jpg/v1/fill/w_283,h_285,al_c,q_80,usm_0.66_1.00_0.01/Vallerano%20Futsal.webp"
+        },
+        {
+            "categoryId": 14,
+            "shopName": "Ludoteca Piccolo Principe",
+            "shopDescription": "Doposcuola, aiuto compiti, ripetizioni, corsi inglese, corsi Zumba adulti, pilates adulti, danza bambini, Sala feste e congressi",
+            "shopMail": "katia.ciaraffoni@libero.it",
+            "shopWebsite": "https://www.ludotecailpiccoloprincipe.com/",
+            "shopNumber1": "tel:+39 06 89133320",
+            "shopNumber2": "tel:+393665295129",
+            "shopPosition": "https://www.google.it/maps/place/Ludoteca+Il+Piccolo+Principe/@41.7881995,12.5171951,17z/data=!3m1!4b1!4m5!3m4!1s0x13258bf837464eb5:0xb8c5b7a9bccfbd29!8m2!3d41.7881995!4d12.5193838?hl=it",
+            "shopLogo": "https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/13083206_1775418896020431_9150589198144687435_n.jpg?_nc_cat=106&_nc_sid=dd9801&_nc_ohc=WgwvEYLRxfsAX9sttF4&_nc_ht=scontent-fco1-1.xx&oh=1b96b899cf2a96d67c829c0246c4ae18&oe=5F8046BE",
+            "discount1": "2 Ingressi Omaggio",
+            "condition1": "Ogni 7 Ingressi"
+        }
+    ]
+}
